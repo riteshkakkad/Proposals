@@ -1,4 +1,4 @@
-# XinFin Proposals (XPRO) Change 2
+# XinFin Proposals (XPRO) 
 Proposed Real World Solutions and Data+Network architecture using XDC Protocol 
 
 Describes standards for DApps, Core Protocol, Platform, Network and Integration points

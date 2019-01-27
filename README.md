@@ -10,7 +10,7 @@ Describes standards for DApps, Core Protocol, Platform, Network and Integration 
 
 If your XPRO requires images, the image files should be included in a subdirectory of the assets folder for that Proposal as follow: assets/XPRO-X (for XPRO X). When linking to an image in the XPRO, use relative links such as ../assets/XPRO-X/image.png.
 
-## XPRO Template
+## XPRO Template 
 
 ### Problem
 
@@ -23,6 +23,10 @@ Propose a solution
 ### Market Size
 
 What is the estimated market size
+
+### Industry Leaders
+
+Who are the Global Market Segment Leader or competitors?
 
 ### Target Market
 
